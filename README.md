@@ -21,11 +21,11 @@ Note : Please try not to harm anyone social media account
 ```
 
 ## The Tool is for :
-- Windows
 - Kali Linux
+- Parrot Os
+- BlackArch Linux
 - Termux
 - iShell
-- macOs
 - any Os has python(2.x, 3.x) with required modules
 
 ###### Installation
