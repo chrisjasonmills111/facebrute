@@ -24,7 +24,6 @@ Note : Please try not to harm anyone social media account
 - Kali Linux
 - Parrot Os
 - BlackArch Linux
-- Termux
 - iShell
 - any Os has python(2.x, 3.x) with required modules
 
